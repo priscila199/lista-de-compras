@@ -1,5 +1,5 @@
 # Lista de Compras
-Projeto de um exercício proposto para mostar como fazer uma lista de compras usando HTML.
+Projeto de um exercício proposto para mostrar como fazer uma lista de compras usando HTML.
 
 ## Exercício proposto
 
