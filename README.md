@@ -1,7 +1,7 @@
 # Lista de Compras
 Projeto de um exercício proposto para mostrar como fazer uma lista de compras usando HTML.
 
-## Exercício proposto
+## Exercício Proposto
 
 Crie uma lista de alimentos “saudáveis” usando as tags corretas de HTML.
 
